@@ -106,7 +106,7 @@ Raw Mapping Data
 → Power BI Dashboard Visualization
 ## dashboard preview
 
-
+"C:\Users\PRIYANKA\Downloads\dashboard_screenshot1.png"
 
 ## Outcome
 
