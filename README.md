@@ -104,7 +104,13 @@ Raw Mapping Data
 → Excel Data Cleaning
 → SQL Data Analysis
 → Power BI Dashboard Visualization
+## dashboard preview
+
+
 
 ## Outcome
 
 The project demonstrates the ability to perform data cleaning, write analytical SQL queries, and build interactive dashboards for operational insights.
+
+
+
