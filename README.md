@@ -52,6 +52,7 @@ Raw Mapping Data
 
 
 ## dashboard preview
+![Dashboard](dashboard_screenshot.png)
 
 
 
